@@ -39,4 +39,9 @@ Rectangle {
 }
 ```
 
-Actually, you can then handle the animation when you are changing the width of your component
+Actually, you can then handle the animation when you are changing the width of your component.
+
+## Concrete example
+
+Let's have a look at the following repository, more precisely the Main.qml file, simple animation that is a simple sliding animation from left to right for a button like so:
+![Sliding animation](./assets/Gif-MVD.gif)
